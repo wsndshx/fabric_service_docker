@@ -1,6 +1,6 @@
 # 基于魔法的奇妙ELF(?)世界
 
-    该项目所使用的服务端为Fabric, 并且以植物魔法为核心玩法.
+>该项目所使用的服务端为Fabric, 并且以植物魔法为核心玩法.
 
 ![/637416773599398779 (2)](image/一个图片.png)
 
@@ -60,7 +60,12 @@
 
 ## 服务端部署方法
 
-    需要服务端安装Docker
+>需要服务端安装Docker
+
+```bash
+curl 'https://gitee.com/zzlwd/fabric_service_docker/raw/master/Fabric_server_docker.yml' -o Fabric_server_docker.yml
+curl 'https://gitee.com/zzlwd/fabric_service_docker/raw/master/server_mod_list.txt' -o server_mod_list.txt
+```
 
 下载[docker配置文件](https://gitee.com/zzlwd/fabric_service_docker/raw/master/Fabric_server_docker.yml)与[服务器MOD列表](https://gitee.com/zzlwd/fabric_service_docker/raw/master/server_mod_list.txt)到任意一个目录, 并修改下列数据:
 
@@ -71,6 +76,6 @@
 - 17行若不想开启正版验证则取消注释;
 
 修改完成后, 便可启动镜像: 
-```
+```bash
 docker-compose -f Fabric_server_docker.yml up -d
 ```
