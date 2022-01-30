@@ -1,0 +1,24 @@
+version: "3"
+
+services:
+  Fabric_Service:
+    image: itzg/minecraft-server
+    ports:
+      - 25565:25565
+    environment:
+      EULA: "TRUE"
+      TYPE: "FABRIC"
+      VERSION: "1.8.1"
+      MODS_FILE: /extras/server_mod_list.txt
+      REMOVE_OLD_MODS: "true"
+      MOTD: "这是一个运行在Docker中的FABRIC服务器"
+      ENABLE_RCON: "true"
+      RCON_PASSWORD: "Password_Desu"
+      # ONLINE_MODE: "FALSE"
+      USE_AIKAR_FLAGS: "true"
+    volumes:
+      - /Fabric_Service-data:/data
+      - ./server_mod_list.txt:/extras/server_mod_list.txt:ro
+    tty: true
+    stdin_open: true
+    restart: unless-stopped

@@ -62,7 +62,7 @@
 
     需要服务端安装Docker
 
-下载[docker配置文件](https://gitee.com/zzlwd/fabric_service_docker/raw/master/Fabric_server_docker.yml)到任意一个目录, 并修改下列数据:
+下载[docker配置文件](https://gitee.com/zzlwd/fabric_service_docker/raw/master/Fabric_server_docker.yml)与[服务器MOD列表](https://gitee.com/zzlwd/fabric_service_docker/raw/master/server_mod_list.txt)到任意一个目录, 并修改下列数据:
 
 - 将第11行的`/Fabric_Service-data`修改为你想将服务器文件保存到的路径;
 

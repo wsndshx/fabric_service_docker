@@ -1,0 +1,26 @@
+# Trinkets
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/trinkets-3.0.4.jar&api-version=6.0
+# Patchouli
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/Patchouli-1.18.1-64-FABRIC.jar&api-version=6.0
+# Botania
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/Botania-1.18.1-427-FABRIC.jar&api-version=6.0
+# Universal Graves
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/graves-2.0.0-beta.4.2+1.18.1.jar&api-version=6.0
+# Campanion
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/campanion-3.0.2.jar&api-version=6.0
+# FallingTree
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/FallingTree-1.18.1-3.2.0b2.jar&api-version=6.0
+# Fabric Seasons
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/fabric-seasons-1.3-BETA+1.18.jar&api-version=6.0
+# Fabric API
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/fabric-api-0.46.1+1.18.jar&api-version=6.0
+# Krypton
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/krypton-0.1.6.jar&api-version=6.0
+# Lithium
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/lithium-fabric-mc1.18.1-0.7.7.jar&api-version=6.0
+# FerriteCore
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/ferritecore-4.0.0-fabric.jar&api-version=6.0
+# Starlight
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/starlight-1.0.0+fabric.d0a3220.jar&api-version=6.0
+# C2ME
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/c2me-fabric-mc1.18.1-0.2.0+alpha.6.25-all.jar&api-version=6.0
