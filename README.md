@@ -16,8 +16,6 @@
 
 - [Fabric API - 大多数MOD的前置](https://www.mcmod.cn/class/3124.html) `服务端` `客户端`
 
-- [Cardinal Components - 似乎Botania用到了它](https://www.curseforge.com/minecraft/mc-mods/cardinal-components) `服务端` `客户端`
-
 - [帕秋莉手册的前置(Trinkets)](https://www.mcmod.cn/class/3985.html) `服务端` `客户端`
 
     - [帕秋莉手册(Patchouli)](https://www.mcmod.cn/class/1388.html) `服务端` `客户端`
