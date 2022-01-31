@@ -50,6 +50,16 @@
 
 - [DFU载入优化(LazyDFU)](https://www.mcmod.cn/class/3407.html) `客户端`
 
+### 管理辅助
+
+- [TabTPS - 查看服务器的性能数据](https://www.mcmod.cn/class/4089.html) `服务端`
+
+- [LuckPerms - 权限管理](https://www.mcmod.cn/class/5192.html) `服务端`
+
+- [Ledger - 方块记录](https://www.mcmod.cn/class/5389.html) `服务端`
+
+    >Ledger由于会大量占用磁盘IOPS, 因此并未加入到列表当中, 有需要的可以自行解除注释
+
 ### 美化mod
 
 - [3D皮肤层(Skin Layers 3D)](https://www.mcmod.cn/class/4618.html) `客户端`
