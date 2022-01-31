@@ -1,3 +1,5 @@
+# Cardinal Components
+https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/Cardinal-Components-API-4.0.1.jar
 # Trinkets
 https://gitee.com/zzlwd/fabric_service_docker/raw/master/SERVER_SIDE_MODS/trinkets-3.0.4.jar
 # Patchouli
