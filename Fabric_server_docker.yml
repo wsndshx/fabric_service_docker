@@ -16,6 +16,7 @@ services:
       RCON_PASSWORD: "Password_Desu"
       # ONLINE_MODE: "FALSE"
       USE_AIKAR_FLAGS: "true"
+      TZ: "Asia/Shanghai"
     volumes:
       - /Fabric_Service-data:/data
       - ./server_mod_list.txt:/extras/server_mod_list.txt:ro
