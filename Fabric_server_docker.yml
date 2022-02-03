@@ -8,7 +8,7 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "FABRIC"
-      VERSION: "1.8.1"
+      VERSION: "1.18.1"
       MODS_FILE: /extras/server_mod_list.txt
       REMOVE_OLD_MODS: "true"
       MOTD: "这是一个运行在Docker中的FABRIC服务器"

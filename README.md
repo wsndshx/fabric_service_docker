@@ -73,11 +73,11 @@
 >需要服务端安装Docker
 
 ```bash
-curl 'https://gitee.com/zzlwd/fabric_service_docker/raw/master/Fabric_server_docker.yml' -o Fabric_server_docker.yml
-curl 'https://gitee.com/zzlwd/fabric_service_docker/raw/master/server_mod_list.txt' -o server_mod_list.txt
+curl 'https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/Fabric_server_docker.yml' -o Fabric_server_docker.yml
+curl 'https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list.txt' -o server_mod_list.txt
 ```
 
-下载[docker配置文件](https://gitee.com/zzlwd/fabric_service_docker/raw/master/Fabric_server_docker.yml)与[服务器MOD列表](https://gitee.com/zzlwd/fabric_service_docker/raw/master/server_mod_list.txt)到任意一个目录, 并修改下列数据:
+下载[docker配置文件](https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/Fabric_server_docker.yml)与[服务器MOD列表](https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list.txt)到任意一个目录, 并修改下列数据:
 
 - 将第11行的`/Fabric_Service-data`修改为你想将服务器文件保存到的路径;
 
