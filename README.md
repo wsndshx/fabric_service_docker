@@ -100,9 +100,16 @@ docker-compose -f Fabric_server_docker.yml up -d
 
 ```bash
 # 授权插件的管理权
-docker exec Fabric_Service_Mod rcon-cli lp user [玩家用户名] permission set tabtps.defaultdisplay true
+docker exec Fabric_Service_Mod rcon-cli lp user [玩家用户名] permission set luckperms.* true
 # 授权游戏服务器管理权
 docker exec Fabric_Service_Mod rcon-cli op [玩家用户名]
+```
+
+### TabTPS
+
+需要玩家拥有tabtps.defaultdisplay权限才能使用, 下面用于为玩家的默认权限组赋予tabtps.defaultdisplay权限
+```bash
+docker exec Fabric_Service_Mod rcon-cli lp group default permission set tabtps.defaultdisplay true
 ```
 
 后续有关具体配置的方法自己翻各个mod的wiki去.
