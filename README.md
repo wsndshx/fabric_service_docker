@@ -77,6 +77,8 @@ curl 'https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/Fab
 curl 'https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list.txt' -o server_mod_list.txt
 ```
 
+>如果MOD下载速度过慢, 可以使用添加了CDN的MOD列表文件: [server_mod_list_cdn.txt](https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list_cdn.txt)
+
 下载[docker配置文件](https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/Fabric_server_docker.yml)与[服务器MOD列表](https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list.txt)到任意一个目录, 并修改下列数据:
 
 - 将第11行的`/Fabric_Service-data`修改为你想将服务器文件保存到的路径;

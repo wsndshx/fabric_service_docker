@@ -1,0 +1,32 @@
+# Trinkets
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/trinkets-3.2.0.jar
+# Patchouli
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/Patchouli-1.18.1-64-FABRIC.jar
+# Botania
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/Botania-1.18.1-427-FABRIC.jar
+# Universal Graves
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/graves-2.0.0-beta.4.2+1.18.1.jar
+# Campanion
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/campanion-3.0.2.jar
+# FallingTree
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/FallingTree-1.18.1-3.2.0b2.jar
+# Fabric Seasons
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/fabric-seasons-1.3-BETA+1.18.jar
+# Fabric API
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/fabric-api-0.46.1+1.18.jar
+# Krypton
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/krypton-0.1.6.jar
+# Lithium
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/lithium-fabric-mc1.18.1-0.7.7.jar
+# FerriteCore
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/ferritecore-4.0.0-fabric.jar
+# Starlight
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/starlight-1.0.0+fabric.d0a3220.jar
+# C2ME
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/c2me-fabric-mc1.18.1-0.2.0+alpha.6.25-all.jar
+# TabTPS
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/tabtps-fabric-mc1.18-1.3.11.jar
+# LuckPerms
+https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/LuckPerms-Fabric-5.3.98.jar
+# Ledger
+#https://ghproxy.com/https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/ledger-1.2.0.jar
