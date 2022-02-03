@@ -21,6 +21,10 @@ services:
     volumes:
       - /Fabric_Service-data:/data
       - ./server_mod_list.txt:/extras/server_mod_list.txt:ro
+    deploy:
+      resources:
+        limits:
+          memory: 2G
     tty: true
     stdin_open: true
     restart: unless-stopped
