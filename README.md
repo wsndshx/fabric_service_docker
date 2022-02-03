@@ -77,7 +77,7 @@ curl 'https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/Fab
 curl 'https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list.txt' -o server_mod_list.txt
 ```
 
->如果MOD下载速度过慢, 可以使用添加了CDN的MOD列表文件: [server_mod_list_cdn.txt](https://raw.githubusercontent.com/wsndshx/fabric_service_docker/master/server_mod_list_cdn.txt); 
+>如果MOD下载速度过慢, 可以使用添加了CDN的MOD列表文件: [server_mod_list_cdn.txt](https://raw.fastgit.org/wsndshx/fabric_service_docker/master/server_mod_list_cdn.txt); 
 >
 >记得把`server_mod_list_cdn.txt`改成`server_mod_list.txt`;
 
