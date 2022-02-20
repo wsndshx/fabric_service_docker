@@ -30,3 +30,5 @@ https://raw.fastgit.org/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/ta
 https://raw.fastgit.org/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/LuckPerms-Fabric-5.3.98.jar
 # Ledger
 #https://raw.fastgit.org/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/ledger-1.2.0.jar
+# Culinaire
+https://raw.fastgit.org/wsndshx/fabric_service_docker/master/SERVER_SIDE_MODS/CLIENT_SIDE_MODS/sodium-fabric-mc1.18.1-0.4.0-alpha6+replaymod.rev.b90e7f3.jar
