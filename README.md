@@ -30,6 +30,8 @@
 
 - [季节(Fabric Seasons)](https://www.modrinth.com/mod/fabric-seasons) `服务端` `客户端`
 
+- [烹饪(Culinaire)](https://www.mcmod.cn/class/2943.html) `服务端` `客户端`
+
 ### 性能优化mod
 
 - [氪(Krypton) - 网络堆栈优化](https://www.modrinth.com/mod/krypton) `服务端`
@@ -50,6 +52,10 @@
 
 - [DFU载入优化(LazyDFU)](https://www.mcmod.cn/class/3407.html) `客户端`
 
+- [服务器区块缓存的前置(Cloth Config API)](https://www.mcmod.cn/class/2346.html) `客户端`
+
+    - [服务器区块缓存(Bobby)](https://www.mcmod.cn/class/5291.html) `客户端`
+
 ### 管理辅助
 
 - [TabTPS - 查看服务器的性能数据](https://www.mcmod.cn/class/4089.html) `服务端`
@@ -60,13 +66,17 @@
 
     >Ledger由于会大量占用磁盘IOPS, 因此并未加入到列表当中, 有需要的可以自行解除注释
 
-### 美化mod
+### 美化/实用mod
 
 - [3D皮肤层(Skin Layers 3D)](https://www.mcmod.cn/class/4618.html) `客户端`
 
 - [模组菜单(Mod Menu)](https://www.mcmod.cn/class/1675.html) `客户端`
 
 - [Lambda的动态光源(LambDynamicLights)](https://www.mcmod.cn/class/2954.html) `客户端`
+
+- [录像回放(Replay Mod)](https://www.mcmod.cn/class/1203.html) `客户端`
+
+- [Lambda 的控制优化(LambdaControls)](https://www.mcmod.cn/class/5453.html) `客户端`
 
 ## 服务端部署方法
 
