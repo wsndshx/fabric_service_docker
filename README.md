@@ -78,6 +78,8 @@
 
 - [Lambda 的控制优化(LambdaControls)](https://www.mcmod.cn/class/5453.html) `客户端`
 
+- [万用皮肤补丁 (CustomSkinLoader)](https://www.mcmod.cn/class/883.html) `客户端`
+
 ## 服务端部署方法
 
 >需要服务端安装Docker
