@@ -80,6 +80,8 @@
 
 - [万用皮肤补丁 (CustomSkinLoader)](https://www.mcmod.cn/class/883.html) `客户端`
 
+- [截图到剪贴板 (Screenshot to Clipboard)](https://www.mcmod.cn/class/2733.html) `客户端`
+
 ## 服务端部署方法
 
 >需要服务端安装Docker
