@@ -34,7 +34,7 @@
 
 ### 性能优化mod
 
-- [氪(Krypton) - 网络堆栈优化](https://www.modrinth.com/mod/krypton) `服务端`
+- [氪(Krypton) - 网络堆栈优化](https://www.modrinth.com/mod/krypton) `服务端` `客户端`
 
 - [锂(Lithium) - 优化运行效率](https://www.modrinth.com/mod/lithium) `服务端`
 
